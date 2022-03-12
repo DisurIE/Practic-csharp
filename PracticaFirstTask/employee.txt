@@ -1,0 +1,7 @@
+2	Ы	Ы	Ы	123450879	89873087385	assa@firma.ru
+1	Ы	Ы	Ы	0987651987	89873087385	asasasas@firma.ru
+3	Ы	Ы	Ы	1987651987	89873087385	asasasas@firma.ru
+4	В	В	В	0987653456	89873087385	ffdfd@firma.ru
+6	В	В	В	0122343434	89873087385	sdsfd@firma.ru
+7	В	В	В	1122340434	89873087385	sdsfd@firma.ru
+10	Ы	Ы	Ы	1897891897	89873087385	fdsgfdsg@firma.ru
